@@ -36,8 +36,13 @@
 ![Adyatmaa86 GitHub stats](https://github-readme-stats.vercel.app/api?username=adyatmaa86&show_icons=true&theme=chartreuse-dark&locale=id)
 
 ### Connect with me
-![https://api.whatsapp.com/send?phone=6282142566798](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white) ![https://www.instagram.com/adyatmaa86](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![www.tiktok.com/@adyatmaa19](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+<div align="center">
+  <a href="https://api.whatsapp.com/send?phone=6282142566798"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/adyatmaa86"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@adyatmaa19"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</div>
 
+###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adyatmaa86/adyatmaa86/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
