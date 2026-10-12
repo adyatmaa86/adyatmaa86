@@ -15,3 +15,14 @@
 
 ![Adyatmaa86 GitHub stats](https://github-readme-stats.vercel.app/api?username=adyatmaa86&show_icons=true&theme=chartreuse-dark&locale=id)
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adyatmaa86/adyatmaa86/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adyatmaa86/adyatmaa86/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adyatmaa86/adyatmaa86/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/adyatmaa86/adyatmaa86/snake-output/snake.svg" alt="Snake animation" />
+
+###
